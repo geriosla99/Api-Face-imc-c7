@@ -1,0 +1,23 @@
+{
+  "name": "apiface-imc-c7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geriosla99/Api-Face-imc-c7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geriosla99/Api-Face-imc-c7/issues"
+  },
+  "homepage": "https://github.com/geriosla99/Api-Face-imc-c7#readme",
+  "dependencies": {
+    "json-serve": "^0.1.0"
+  }
+}

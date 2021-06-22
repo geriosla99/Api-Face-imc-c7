@@ -1,0 +1,34 @@
+{
+    "patient": [
+        {
+            "id": 1,
+            "name": "Mailer",
+            "last_name": "Martínez",
+            "birthday": "1996-12-19",
+            "phone": "3192432568",
+            "mobile": "3192432568",
+            "document": 123456
+        }
+    ],
+    "IMC":[
+        {
+            "id": 1,
+            "document":123456,
+            "weight": 80.2,
+            "tall": "1.80",
+            "date": "2021/07/10 10:08_14"
+        },
+        {
+            "id": 1,
+            "document":123456,
+            "weight": 80.2,
+            "tall": "1.80",
+            "date": "2021/07/19 10:08_14"
+        }
+    ],    
+    "configuracion": {
+        "name-app": "IMC",
+        "version": "1.0.0",
+        "admin": "Geraldine Rios"
+    }
+}
